@@ -1,0 +1,108 @@
+# Kingdom Hearts 1: the full story
+#
+# Format
+#   ## Chapter title                 starts a chapter (YouTube timestamp + title card)
+#   [expression] Spoken line.        one line of narration and the avatar face to show
+#   [expression seed=12] ...         re-roll a bad take by changing its seed
+#   [expression exag=0.8 cfg=0.3]    per-line delivery energy / pacing
+#   [expression pause=1.2] ...       seconds of silence after this line
+#   {shown|spoken}                   caption shows the first, voice says the second
+#   @say word = spoken               pronounce a word differently everywhere
+#   # comment                        ignored
+#
+# Expressions: neutral blink happy laugh excited love smug thinking confused angry
+#   furious annoyed sad crying shocked nervous embarrassed defeated sleepy
+
+@say paopu = pow poo
+
+## Intro
+[excited] What's up everyone, welcome back!
+[happy] Today we're going all the way back to two thousand two, to the game that put Disney and Final Fantasy in the same universe.
+[smug] And somehow made it work.
+[neutral] This is the full story of Kingdom Hearts One, explained as simply as I possibly can.
+[nervous] Which, if you know this series, is a promise I probably can't keep.
+[laugh pause=1.0] Let's do it anyway.
+
+## Destiny Islands
+[neutral] Our story starts on Destiny Islands, a tiny tropical paradise.
+[happy] Three best friends live there. Sora, our spiky haired hero. Riku, the cool older rival.
+[thinking] And Kairi, a girl who washed up on the islands years ago with no memory of where she came from.
+[excited] Fun fact for my voice actor people. Sora is voiced by Haley Joel Osment in English. Yes, the kid from The Sixth Sense.
+[thinking] All three of them share the same question. What's out there, beyond the ocean?
+[excited] So they build a raft. They're going to sail away and see other worlds.
+[love] There's also a local legend about the paopu fruit. If two people share one, their destinies become intertwined forever.
+[smug] Riku teases Sora about sharing one with Kairi, and Sora gets very flustered.
+[embarrassed] Relatable, honestly.
+[shocked] But the night before they leave, a storm rolls in. And it is not a normal storm.
+[nervous] Shadowy creatures called the Heartless crawl out of the ground and start swallowing the island whole.
+[confused] Sora finds Riku standing in a pool of darkness, completely calm, saying the door is open and they can finally leave.
+[sad] Riku reaches out his hand. Sora reaches back. And the darkness swallows them both.
+[shocked] Then, out of nowhere, a giant key appears in Sora's hand. The Keyblade.
+[sad] He finds Kairi, but the moment she runs to him, she fades away right through his arms.
+[defeated pause=1.0] And then the whole island is gone.
+
+## Meanwhile, at Disney Castle
+[neutral] Somewhere else entirely, Donald Duck walks into King Mickey's throne room.
+[shocked] And the King is missing. All that's left is a letter.
+[thinking] It says the stars have been going out, one by one, and Mickey has gone to find out why.
+[neutral] He tells Donald and Goofy to find someone holding a key, and to stick with them.
+[happy] So the court wizard and the captain of the royal guard head out in a gummi ship. Which is exactly as weird as it sounds.
+
+## Traverse Town
+[confused] Sora wakes up in Traverse Town, a little city for people whose worlds were swallowed by darkness.
+[neutral] There he meets Leon, Yuffie, and Aerith. Yes, the Final Fantasy ones.
+[thinking] They explain the rules. The Heartless are born from the darkness in people's hearts, and they hunt the hearts of others.
+[excited] The Keyblade is the one weapon the Heartless truly fear, and it chose Sora.
+[happy] Then Sora literally lands on top of Donald and Goofy. The kid with the key.
+[laugh] They team up on the spot. Sora wants to find Riku and Kairi. Donald and Goofy want to find the King. Same road, different reasons.
+
+## World Hopping
+[excited] From here, the trio travels from world to world, and almost every one of them is a Disney movie.
+[happy] Wonderland, Olympus Coliseum, Deep Jungle, Agrabah, Atlantica, Halloween Town, Neverland, and even the inside of a giant whale.
+[neutral] In each world, Sora seals a hidden keyhole, so the Heartless can't devour the heart of that world.
+[angry] But there's a council of villains pulling the strings. Jafar, Ursula, Captain Hook, Oogie Boogie, and Hades.
+[furious] And leading all of them, Maleficent.
+[thinking] They're kidnapping seven girls called the Princesses of Heart. Alice, Jasmine, Snow White, Cinderella, Aurora, Belle, and one more.
+[shocked] Kairi.
+[sad] And here's the part that hurts. Riku is working with them.
+[angry] Maleficent keeps whispering to him. Look at Sora. He replaced you with new friends. He doesn't even care.
+[sad pause=1.0] And every time Sora and Riku cross paths, Riku gets a little more bitter, and a little darker.
+
+## Hollow Bastion
+[nervous] Everything comes to a head at Hollow Bastion, Maleficent's castle.
+[shocked] Riku holds out his hand, and the Keyblade flies out of Sora's grip and into Riku's.
+[confused] Turns out the Keyblade goes to whoever has the stronger heart. And right now, that's Riku.
+[crying] Donald and Goofy go with Riku. They have to. The King told them to follow the key.
+[defeated] Sora is left alone, holding a wooden sword.
+[happy] But then Goofy turns around. Tell the King I'm sorry, he says. I'm going with Sora.
+[excited] And Donald follows right behind him.
+[smug] Sora says the line. My friends are my power.
+[excited] And the Keyblade flies right back into his hand.
+[angry] Sora fights his way through the castle, and Maleficent turns into a giant dragon. Classic.
+[shocked] But Riku has been taken over by someone named Ansem, the seeker of darkness.
+[thinking] And Ansem reveals the twist. Kairi's heart was never lost. It was hiding inside Sora the whole time.
+[sad] So Sora does something wild. He takes a Keyblade made from the princesses' hearts, and turns it on himself.
+[crying] Kairi's heart goes home, and Sora turns into a tiny Heartless.
+[love] Kairi wakes up, recognizes him anyway, and hugs him. And her light brings him back.
+[happy pause=1.0] Honestly? Still one of the best moments in the whole series.
+
+## The End of the World
+[neutral] Sora leaves Kairi somewhere safe, and heads for the place all the lost worlds ended up. The End of the World.
+[angry] Ansem is waiting there, in front of the Door to Kingdom Hearts.
+[thinking] Ansem believes Kingdom Hearts is darkness. That every heart comes from the dark, and returns to it.
+[smug] Sora, being Sora, disagrees. He says Kingdom Hearts is light.
+[shocked] The door opens, and a flood of light pours out and wipes Ansem away.
+[nervous] But Heartless start pouring out too. The door has to be closed, from both sides.
+[sad] And on the other side is Riku. Free, and himself again. Next to him is King Mickey, holding a Keyblade of his own.
+[crying] Riku tells Sora, take care of her. And the door shuts between them.
+[happy] All the lost worlds come back. Destiny Islands rebuilds itself, and Sora and Kairi reach for each other as the ground pulls them apart.
+[sad] Her hand slips through his, and he promises he'll come back.
+[thinking] The game ends with Sora, Donald, and Goofy walking down an endless road, still searching for Riku and the King.
+[excited pause=1.0] And then Pluto trots by with a letter in his mouth, stamped with the King's seal, and they chase after him.
+
+## Wrap-up
+[happy] And that's Kingdom Hearts One. Friendship, Disney, and a whole lot of darkness.
+[laugh] It only gets more complicated from here.
+[smug] Like, a lot more complicated.
+[happy] If you liked this, let me know which game you want me to cover next.
+[excited] See you next time!
