@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<defs>
+  <clipPath id="headClip"><path d="M262 430 C262 262 380 190 512 190 C644 190 762 262 762 430 C762 602 650 722 512 722 C374 722 262 602 262 430 Z"/></clipPath>
+  <clipPath id="bangsClip"><path d="M246 450 C232 262 368 156 512 156 C656 156 792 262 778 450 L742 352 L706 392 L668 318 L612 378 L566 300 L512 362 L462 296 L414 374 L364 318 L320 392 L284 350 Z"/></clipPath>
+  <clipPath id="topClip"><path d="M262 430 C262 262 380 190 512 190 C644 190 762 262 762 430 C762 602 650 722 512 722 C374 722 262 602 262 430 Z"/><path d="M246 450 C232 262 368 156 512 156 C656 156 792 262 778 450 L742 352 L706 392 L668 318 L612 378 L566 300 L512 362 L462 296 L414 374 L364 318 L320 392 L284 350 Z"/></clipPath>
+  <linearGradient id="iris" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#1f3d80"/><stop offset="0.65" stop-color="#4d86d9"/><stop offset="1" stop-color="#9cc6ff"/>
+  </linearGradient>
+  <linearGradient id="gloomGrad" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#3a2a6a" stop-opacity="0.55"/><stop offset="1" stop-color="#3a2a6a" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+
+<path d="M214 480 C196 226 360 128 512 128 C664 128 828 226 810 480 C806 610 778 690 744 712 L280 712 C246 690 218 610 214 480 Z" fill="#3a2b45" stroke="#2a1f24" stroke-linejoin="round" stroke-linecap="round" stroke-width="7"/>
+
+  <path d="M150 1024 C160 880 290 790 512 790 C734 790 864 880 874 1024 Z" fill="#6f8fc2" stroke="#2a1f24" stroke-linejoin="round" stroke-linecap="round" stroke-width="7"/>
+  <path d="M450 670 L450 820 Q512 848 574 820 L574 670 Z" fill="#f3c2a6" stroke="#2a1f24" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+  <path d="M352 800 Q512 912 672 800 L646 786 Q512 868 378 786 Z" fill="#53709f" stroke="#2a1f24" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+  <path d="M470 858 L462 958 M554 858 L562 958" stroke="#f4f1ea" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="462" cy="962" r="9" fill="#f4f1ea" stroke="#2a1f24" stroke-linejoin="round" stroke-linecap="round" stroke-width="4"/>
+  <circle cx="562" cy="962" r="9" fill="#f4f1ea" stroke="#2a1f24" stroke-linejoin="round" stroke-linecap="round" stroke-width="4"/>
+<ellipse cx="262" cy="485" rx="32" ry="46" fill="#ffe2cf" stroke="#2a1f24" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/><ellipse cx="762" cy="485" rx="32" ry="46" fill="#ffe2cf" stroke="#2a1f24" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+<path d="M262 430 C262 262 380 190 512 190 C644 190 762 262 762 430 C762 602 650 722 512 722 C374 722 262 602 262 430 Z" fill="#ffe2cf" stroke="#2a1f24" stroke-linejoin="round" stroke-linecap="round" stroke-width="7"/>
+  <g clip-path="url(#headClip)"><path d="M246 450 C232 262 368 156 512 156 C656 156 792 262 778 450 L742 352 L706 392 L668 318 L612 378 L566 300 L512 362 L462 296 L414 374 L364 318 L320 392 L284 350 Z" transform="translate(0 22)" fill="#f3c2a6"/></g>
+
+  <clipPath id="sc410"><ellipse cx="410" cy="505" rx="44" ry="54"/></clipPath>
+  <g>
+    <ellipse cx="410" cy="505" rx="44" ry="54" fill="#fff" stroke="#2a1f24" stroke-linejoin="round" stroke-linecap="round" stroke-width="5"/>
+    <g clip-path="url(#sc410)">
+      <ellipse cx="410" cy="515" rx="34" ry="46" fill="url(#iris)" stroke="#2a1f24" stroke-linejoin="round" stroke-linecap="round" stroke-width="4"/>
+      <ellipse cx="410" cy="519" rx="15" ry="21" fill="#2a1f24"/>
+      <circle cx="398" cy="495" r="15" fill="#fff"/>
+      <circle cx="423" cy="529" r="8" fill="#fff"/>
+      <ellipse cx="410" cy="555" rx="44" ry="16" fill="#bfe6ff" opacity="0.85"/>
+    </g>
+  </g><path d="M360 479 Q410 429 460 479" fill="none" stroke="#2a1f24" stroke-linejoin="round" stroke-linecap="round" stroke-width="11"/><path d="M362 475 L348 465" fill="none" stroke="#2a1f24" stroke-linejoin="round" stroke-linecap="round" stroke-width="11"/>
+
+  <clipPath id="sc614"><ellipse cx="614" cy="505" rx="44" ry="54"/></clipPath>
+  <g>
+    <ellipse cx="614" cy="505" rx="44" ry="54" fill="#fff" stroke="#2a1f24" stroke-linejoin="round" stroke-linecap="round" stroke-width="5"/>
+    <g clip-path="url(#sc614)">
+      <ellipse cx="614" cy="515" rx="34" ry="46" fill="url(#iris)" stroke="#2a1f24" stroke-linejoin="round" stroke-linecap="round" stroke-width="4"/>
+      <ellipse cx="614" cy="519" rx="15" ry="21" fill="#2a1f24"/>
+      <circle cx="602" cy="495" r="15" fill="#fff"/>
+      <circle cx="627" cy="529" r="8" fill="#fff"/>
+      <ellipse cx="614" cy="555" rx="44" ry="16" fill="#bfe6ff" opacity="0.85"/>
+    </g>
+  </g><path d="M564 479 Q614 429 664 479" fill="none" stroke="#2a1f24" stroke-linejoin="round" stroke-linecap="round" stroke-width="11"/><path d="M662 475 L676 465" fill="none" stroke="#2a1f24" stroke-linejoin="round" stroke-linecap="round" stroke-width="11"/>
+
+  <clipPath id="mouthClip"><path d="M466 654 Q512 592 558 654 Q512 642 466 654 Z"/></clipPath>
+  <path d="M466 654 Q512 592 558 654 Q512 642 466 654 Z" fill="#8a2d3b"/>
+  <g clip-path="url(#mouthClip)">
+    
+    <ellipse cx="512" cy="676" rx="46" ry="34" fill="#e8737f"/>
+  </g>
+  <path d="M466 654 Q512 592 558 654 Q512 642 466 654 Z" fill="none" stroke="#2a1f24" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+<path d="M246 450 C232 262 368 156 512 156 C656 156 792 262 778 450 L742 352 L706 392 L668 318 L612 378 L566 300 L512 362 L462 296 L414 374 L364 318 L320 392 L284 350 Z" fill="#3a2b45" stroke="#2a1f24" stroke-linejoin="round" stroke-linecap="round" stroke-width="7"/>
+  <g clip-path="url(#bangsClip)"><path d="M338 238 Q512 176 686 238" fill="none" stroke="#5d4870" stroke-width="16" stroke-linecap="round" opacity="0.8"/></g>
+  <path d="M512 160 C522 104 586 92 606 70 C596 124 556 148 532 164 Z" fill="#3a2b45" stroke="#2a1f24" stroke-linejoin="round" stroke-linecap="round" stroke-width="6"/>
+<path d="M368 436 Q410 420 450 402" fill="none" stroke="#3a2b45" stroke-width="12" stroke-linecap="round"/>
+<path d="M656 436 Q614 420 574 402" fill="none" stroke="#3a2b45" stroke-width="12" stroke-linecap="round"/>
+
+</svg>
